@@ -12,7 +12,7 @@ import (
 )
 var apiURL string = "https://api.openai.com/v1/chat/completions"
 
-var apiKey string = "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"
+var apiKey string = "Your apikey"
 
 
 type Message struct {
